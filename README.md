@@ -12,8 +12,8 @@ This project focuses on time series analysis and forecasting using various machi
   - **Random Forest Regressor** for short-term predictions.
   - **SARIMA** for time series forecasting.
 - **Streamlit API**:
-  - User-friendly interface for selecting city and variable.
-  - Interactive visualizations of past trends and future forecasts.
+  - User-friendly interface for selecting models and variable.
+  - Interactive visualizations of past trends, future forecasts and doing the analysis of other data (satellite data).
 
 ## Project Structure
 ```
