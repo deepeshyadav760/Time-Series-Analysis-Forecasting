@@ -35,7 +35,7 @@ Time_Series_Project/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com//Time_Series_Project.git
+   git clone https://github.com/deepeshyadav760/Time-Series-Analysis-Forecasting.git
    cd Time_Series_Project
    ```
 2. Create a virtual environment:
