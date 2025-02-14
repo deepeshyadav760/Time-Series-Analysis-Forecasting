@@ -65,5 +65,3 @@ Time_Series_Project/
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with improvements.
-
-# Time-Series-Analysis-Forecasting
