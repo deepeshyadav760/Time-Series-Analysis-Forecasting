@@ -5,6 +5,8 @@ This repository contains the code and documentation for a time series analysis a
 ## Overview
 This project focuses on time series analysis and forecasting using various machine learning models. It is built using **Streamlit** to provide an interactive web-based API for visualizing and predicting environmental factors such as NDVI, temperature, precipitation, and air quality.
 
+**App:** https://deepeshyadav760-time-series-analysis-forecasting-app-ytbiuh.streamlit.app/
+
 ## Features
 - **Data Collection**: Fetches NDVI, temperature, precipitation, and air quality data.
 - **Data Preprocessing**: Includes smoothing, rolling means, and seasonal decomposition.
